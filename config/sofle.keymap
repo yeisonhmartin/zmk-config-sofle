@@ -57,7 +57,7 @@
             display-name = "RAI";  
             // ------------------------------------------------------------------------------------------------------------
             // |BTCLR| BT1  | BT2  |  BT3  |  BT4  |  BT5 |                |      |      |       |      |       |       |
-            // |     | INS  | PSCR | GUI   |       |      |                | PGUP |      |       |      |   &rgb_ug_brt_up    |       |
+            // |     | INS  | PSCR | GUI   |       |      |                | PGUP |      |       |      |   rgb_ug_brt_up    |       |
             // |     | ALT  | CTRL | SHIFT |       | CAPS |                |  <-  |   v  |   ^   |  ->  |  DEL  | BKSPC |
             // |     | UNDO | CUT  | COPY  | PASTE |      |      |  |      |      |      |       |      |       |       |
             //              |      |       |       |      |      |  |      |      |      |       |      |
