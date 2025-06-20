@@ -75,8 +75,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&rgb_ug_brt_up'
-  - '&rgb_ug_brt_down'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Insert
   - Print Scrn
